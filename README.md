@@ -17,6 +17,18 @@
 </body>
 </html>
 
+Formulário
+<body>
+<h1>Formulário</h1>
+<form>
+<label for="nome">Nome: </label>
+<input type="text" id="idnome" name="nome"><br>
+<label for="matricula">Matricula: </label>
+<input type="text" id="idmatricula" name="matricula"><br>
+<input type="submit" value="Enviar">
+</form>
+</body>
+
 
 <style>
 table, th, td {
