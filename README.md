@@ -28,7 +28,7 @@
 </html>
 
 <body>
-<h1>Formulário</h1>
+<h1>Formulario</h1>
 <form>
 <label for="nome">Nome: </label>
 <input type="text" id="idnome" name="nome"><br>
