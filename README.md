@@ -11,6 +11,16 @@
 <title>Usabilidade, desenvolvimento web, mobile e jogos </title>
 </head>
 <body>
+<h1>Oi</h1>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Usabilidade, desenvolvimento web, mobile e jogos </title>
+</head>
+<body>
 <h2>Oi</h2>
 <br>
 <h3>Pessoal</h3>
