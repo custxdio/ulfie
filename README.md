@@ -38,6 +38,20 @@
 </form>
 </body>
 
+<body>
+<h1>Imagens</h1>
+Clique na Imagem <br>
+<a href="https://saulo.arisa.com.br/wiki/index.php/HTML_e_CSS">
+<img src="xadrez.jpg" alt="XADREZ">
+</a>
+<br>
+ou
+<br>
+<a href="https://saulo.arisa.com.br/wiki/index.php/HTML_e_CSS">
+Clique AQUI para a WIKI da UC de Usabilidade
+</a>
+</body>
+
 
 <style>
 table, th, td {
