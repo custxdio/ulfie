@@ -27,7 +27,6 @@
 </body>
 </html>
 
-Formulário
 <body>
 <h1>Formulário</h1>
 <form>
