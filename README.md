@@ -11,7 +11,9 @@ git clone <!DOCTYPE html>
 <title>Usabilidade, desenvolvimento web, mobile e jogos </title>
 </head>
 <body>
-<h1>Oi</h1>
+<h2>Oi</h2>
+<br>
+<h3>Pessoal</h3>
 </body>
 </html>
 
