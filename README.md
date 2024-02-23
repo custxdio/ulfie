@@ -43,6 +43,12 @@ Clique na Imagem <br>
 <img src="xadrez.jpg" alt="XADREZ">
 </a>
 <br>
+ou
+<br>
+<a href="https://saulo.arisa.com.br/wiki/index.php/HTML_e_CSS">
+Clique AQUI para a WIKI da UC de Usabilidade
+</a>
+</body>
 
 
 <style>
