@@ -1,4 +1,4 @@
-git clone <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <body>
 <h1>OLÁ</h1>
