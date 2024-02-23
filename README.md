@@ -43,7 +43,7 @@ Clique na Imagem <br>
 <img src="xadrez.jpg" alt="XADREZ">
 </a>
 <br>
-ou
+
 
 <style>
 table, th, td {
