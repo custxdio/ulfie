@@ -8,7 +8,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Usabilidade, desenvolvimento web, mobile e jogos</title>
 </head>
 <body>
 <h1>Oi</h1>
@@ -18,7 +17,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Usabilidade, desenvolvimento web, mobile e jogos </title>
 </head>
 <body>
 <h2>Oi</h2>
