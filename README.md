@@ -44,12 +44,6 @@ Clique na Imagem <br>
 </a>
 <br>
 ou
-<br>
-<a href= "https://saulo.arisa.com.br/wiki/index.php/HTML_e_CSS">
-Clique AQUI para a WIKI da UC de Usabilidade <br>
-</a>
-</body>
-
 
 <style>
 table, th, td {
